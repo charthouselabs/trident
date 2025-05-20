@@ -1,0 +1,53 @@
+# trident
+
+Modern, batteries-included, ultra-scalable framework inspired by Analog, Angular, Ember.js, Nest.js, and Ruby on Rails; supercharged with Rust perfomance and Nix tooling.
+
+** Goals
+
+Combine the best from the following...
+
+- [[https://rubyonrails.org][Ruby on Rails]]
+- [[https://nestjs.com][NestJS]]
+- [[https://emberjs.com][Ember.js]] & [[https://angular.dev][Angular]].
+  - Fun fact, [[https://github.com/angular/angular-cli/issues/5398][Angular's CLI is a fork of Ember]].
+- [[https://compodoc.app][Compodoc]]
+- [[https://www.openapis.org][OpenAPI 3.0]] - [[https://scalar.com][Scalar]]
+- [[https://storybook.js.org][Storybook]]
+- [[https://tailwindcss.com][TailwindCSS]] & [[https://ui.shadcn.com][Shadcn/ui]]
+- [[https://fumadocs.dev][Fumadocs]]
+- [[https://likec4.dev][LikeC4]]
+- [[https://nx.dev][Nx]]
+- [[https://www.arduino.cc][Arduino]]
+
+- [[https://www.spartan.ng/stack/overview][Spartan Stack]]
+
+And convert them over to [[https://www.rust-lang.org][Rust.]]
+
+
+- [ ] [[https://orgmode.org][Org Mode]]
+  - [ ] [[https://logseq.com][Logseq]] support?
+- [ ] [[https://nixos.org][Nix]] - [[https://devenv.sh][Devenv]]
+  - [ ] [[https://zellij.dev][Zellij]]
+  - [ ] [[https://supabase.com][Supabase]]
+  - [ ] [[https://www.sqlite.org][SQLite]]
+- [ ] [[https://moonrepo.dev][Moonrepo]]
+- [ ] [[https://loco.rs][Loco.rs]]
+  - [ ] [[https://github.com/juhaku/utoipa][Utoipa]]
+    - [ ] [[https://docs.rs/utoipa-swagger-ui/latest/utoipa_swagger_ui/][Utoipa Swagger UI]]
+- [ ] [[https://dioxuslabs.com][Dioxus]]
+- [ ] [[https://wheregmis.github.io/dioxus-motion/][Dioxus Motion]]
+- [ ] [[https://dioxus-material-lookbook.netlify.app][Lookbook]]
+- [ ] [[https://www.webcomponents.org][Web Components]]
+- [ ] [[https://fuel.network][Fuel Smart Contracts]] - [[https://docs.fuel.network/docs/sway/][Sway]]
+- [ ] [[https://penpot.app][Penpot]]
+- [ ] [[https://tailwindcss.com][TailwindCSS]]
+- [ ] [[https://www.shuttle.dev][Shuttle]]
+- [ ] [[https://ratatui.rs][Ratatui]]
+- [ ] [[https://github.com/esp-rs/embuild][Cargo PIO]]
+
+- [ ] [[https://deno.com][Deno]]
+- [ ] [[https://github.com/sigoden/aichat][aichat]]
+- [ ] [[https://github.com/ratatui/crates-tui][crates-tui]]
+
+** Resources
+- [ ] [[https://www.youtube.com/watch?v=KolaSaPiVTI][Zero to Production with Loco and Rust: Build a Product Launch App - YouTube]]
