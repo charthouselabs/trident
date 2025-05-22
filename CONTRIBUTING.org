@@ -1,0 +1,77 @@
+#+TITLE: Contributing to Trident
+#+AUTHOR: Mumtahin Farabi
+#+DATE: <2023-10-16>
+#+OPTIONS: toc:nil
+
+Not actual contribution guidelines, just experimenting with Org Mode at the moment to see how it renders on GitHub.
+
+* Welcome
+Thank you for considering contributing to ~Trident~ ....
+
+* Ways to Contribute
+- Report bugs
+- Suggest features
+- Submit code or documentation changes
+- Review pull requests
+
+** NOTE [#A]
+   Trident uses the ~GPL-3.0~ license. By contributing, you agree that your submissions will be licensed under the same license.
+
+* Reporting Issues
+- Use the issue tracker here: [[https://github.com/charthouselabs/trident/issues]].
+
+* Proposing Changes
+Follow these steps to propose changes..
+
+** TODO [#B] Write Tests
+   Include tests for new features and bug fixes.
+   DEADLINE: <2023-11-01 Wed>
+
+* Code Guidelines
+- Follow these guidelines for clean and consistent code...
+
+  #+BEGIN_SRC rust
+fn example_function() {
+    println!("Contribute with clean and readable code!");
+}
+  #+END_SRC
+
+* Communication
+- Join the discussion at ...
+- Respect our [[CODE_OF_CONDUCT.md][Code of Conduct]].
+
+* Acknowledgments
+Every contributor will be acknowledged in our [[README.md]] and release notes. Thank you for your support.
+
+* FAQ
+#+begin_quote
+**Q: Do I need to know Rust to contribute?**
+A: Not necessarily. We welcome contributions in documentation, issue triaging, and design as well!
+#+end_quote
+
+* Demo of Advanced Features
+** Inline Tasks
+   - [ ] Complete draft
+   - [ ] Proofread for typos
+   - [X] Add code examples
+
+** Tags and Properties
+#+TAGS: Contribute(c) Guidelines(g)
+:PROPERTIES:
+:Contributions: Welcome to all!
+:LastUpdated: [2023-10-16]
+:END:
+
+** Priority Table
+| Priority | Task             | Deadline            |
+|----------+------------------+---------------------|
+| [#A]     | Write Tests      | <2023-11-01 Wed>    |
+| [#B]     | Improve Doc      | <2023-11-10 Fri>    |
+
+* Embedding an Image
+#+CAPTION: Trident logo
+[[file:static/assets/charthouse-labs-banner.png]]
+
+* Links to Related Resources
+- Documentation: [[https://docs.rs/]]
+- Trident GitHub: [[https://github.com/charthouselabs/trident]]
