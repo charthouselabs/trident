@@ -1,0 +1,54 @@
+#+TITLE: Code of Conduct
+#+AUTHOR: Mumtahin Farabi
+#+DATE: [Insert date]
+
+Not an actual code of conduct. Just experimenting with Org Mode at the moment to see how it renders on GitHub.
+
+* Code of Conduct
+Welcome to the Trident project...
+
+** Our Pledge
+We, as contributors and maintainers, commit to fostering an open and inclusive community by treating everyone with respect, empathy, and professionalism, regardless of:
+- Age
+- Gender identity and expression
+- Cultural background
+- Disability
+- Ethnicity
+- Level of experience
+- Nationality
+- Personal appearance
+- Race
+- Religion (or lack thereof)
+- Sexual identity and orientation
+
+** Our Standards
+Examples of positive behavior:
+- Using welcoming and inclusive language.
+- Being respectful of differing viewpoints and experiences.
+- Constructively discussing issues and providing feedback.
+- Showing empathy towards other members.
+
+Examples of unacceptable behavior:
+- Harassment, insults, or discriminatory comments.
+- Trolling, personal attacks, or inflammatory remarks.
+- Publishing private information without permission.
+- Any other conduct deemed inappropriate in a professional community.
+
+** Scope
+This Code of Conduct applies to:
+- All spaces associated with the Trident project, including repositories, issues, pull requests, and communication platforms.
+- Physical and virtual interactions related to the project.
+
+** Reporting Incidents
+If you observe or are the target of unacceptable behavior, please report it to the Trident Team at [[mailto:[Your Email Here]]]. All reports will be handled confidentially.
+
+** Enforcement
+The Trident Team reserves the right to:
+- Remove comments or contributions that violate this Code of Conduct.
+- Temporarily or permanently ban individuals engaging in unacceptable behaviors.
+
+** Acknowledgments
+This Code of Conduct is inspired by the Contributor Covenant version 2.1 ([[https://www.contributor-covenant.org/]]).
+
+** Contact
+For any concerns, feedback, or inquiries regarding this Code of Conduct, reach out to ...
